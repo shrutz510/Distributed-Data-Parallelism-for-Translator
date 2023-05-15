@@ -1,0 +1,66 @@
+
+[GPU0] Epoch 0 | Batchsize: 18 | Steps: 454
+Epoch 0 | loss4.705763071118998 | epoch time26.522s
+Epoch 0 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 1 | Batchsize: 18 | Steps: 454
+Epoch 1 | loss3.276831456743148 | epoch time22.821s
+[GPU0] Epoch 2 | Batchsize: 31 | Steps: 454
+Epoch 2 | loss2.7466061787458242 | epoch time22.833s
+[GPU0] Epoch 3 | Batchsize: 24 | Steps: 454
+Epoch 3 | loss2.3970875432837904 | epoch time22.732s
+[GPU0] Epoch 4 | Batchsize: 24 | Steps: 454
+Epoch 4 | loss2.142515159651046 | epoch time22.371s
+[GPU0] Epoch 5 | Batchsize: 29 | Steps: 454
+Epoch 5 | loss1.9270888391045222 | epoch time22.808s
+Epoch 5 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 6 | Batchsize: 24 | Steps: 454
+Epoch 6 | loss1.7685111233316329 | epoch time22.612s
+[GPU0] Epoch 7 | Batchsize: 25 | Steps: 454
+Epoch 7 | loss1.6237981518984892 | epoch time22.603s
+[GPU0] Epoch 8 | Batchsize: 29 | Steps: 454
+Epoch 8 | loss1.4948122247987907 | epoch time22.391s
+[GPU0] Epoch 9 | Batchsize: 29 | Steps: 454
+Epoch 9 | loss1.3682015011751705 | epoch time22.353s
+[GPU0] Epoch 10 | Batchsize: 24 | Steps: 454
+Epoch 10 | loss1.2875522474885512 | epoch time22.649s
+Epoch 10 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 11 | Batchsize: 26 | Steps: 454
+Epoch 11 | loss1.1970880752355517 | epoch time22.725s
+[GPU0] Epoch 12 | Batchsize: 25 | Steps: 454
+Epoch 12 | loss1.1108972426290553 | epoch time22.690s
+[GPU0] Epoch 13 | Batchsize: 26 | Steps: 454
+Epoch 13 | loss1.0462232069296984 | epoch time22.731s
+[GPU0] Epoch 14 | Batchsize: 23 | Steps: 454
+Epoch 14 | loss0.9743378973742414 | epoch time22.707s
+Number of Epochs = 14, Total time = 344.325s
+[GPU1] Epoch 0 | Batchsize: 28 | Steps: 454
+Epoch 0 | loss4.714188809962 | epoch time26.523s
+[GPU1] Epoch 1 | Batchsize: 28 | Steps: 454
+Epoch 1 | loss3.300871396905 | epoch time23.064s
+[GPU1] Epoch 2 | Batchsize: 22 | Steps: 454
+Epoch 2 | loss2.7604921460151672 | epoch time22.813s
+[GPU1] Epoch 3 | Batchsize: 23 | Steps: 454
+Epoch 3 | loss2.4160519465475883 | epoch time22.747s
+[GPU1] Epoch 4 | Batchsize: 27 | Steps: 454
+Epoch 4 | loss2.1449705740428704 | epoch time22.389s
+[GPU1] Epoch 5 | Batchsize: 22 | Steps: 454
+Epoch 5 | loss1.940961147194917 | epoch time22.773s
+[GPU1] Epoch 6 | Batchsize: 27 | Steps: 454
+Epoch 6 | loss1.7612027158296055 | epoch time22.973s
+[GPU1] Epoch 7 | Batchsize: 20 | Steps: 454
+Epoch 7 | loss1.609917586858052 | epoch time22.544s
+[GPU1] Epoch 8 | Batchsize: 23 | Steps: 454
+Epoch 8 | loss1.4919990248617097 | epoch time22.399s
+[GPU1] Epoch 9 | Batchsize: 25 | Steps: 454
+Epoch 9 | loss1.3978968953246063 | epoch time22.365s
+[GPU1] Epoch 10 | Batchsize: 26 | Steps: 454
+Epoch 10 | loss1.2861763687911012 | epoch time22.619s
+[GPU1] Epoch 11 | Batchsize: 25 | Steps: 454
+Epoch 11 | loss1.1965457365113734 | epoch time23.008s
+[GPU1] Epoch 12 | Batchsize: 23 | Steps: 454
+Epoch 12 | loss1.1219237890537614 | epoch time22.665s
+[GPU1] Epoch 13 | Batchsize: 25 | Steps: 454
+Epoch 13 | loss1.0380285665852382 | epoch time22.712s
+[GPU1] Epoch 14 | Batchsize: 32 | Steps: 454
+Epoch 14 | loss0.9755125367431389 | epoch time22.732s
+Number of Epochs = 14, Total time = 344.326s
