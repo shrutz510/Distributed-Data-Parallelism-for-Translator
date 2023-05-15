@@ -10,7 +10,7 @@ In PyTorch, Distributed Data Parallelism (DDP) is implemented using the torch.nn
 
 Code Structure
 
-.
+'''
 ├── ...
 ├── src                    # Source files for the program
 │   ├── help.py            # contains functions returning the model and dataloader to each spawn
@@ -28,3 +28,4 @@ Code Structure
 │   └──  4GPU.SBATCH
 │   └──  CPU.SBATCH
 
+'''
