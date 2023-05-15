@@ -41,7 +41,7 @@ In PyTorch, Distributed Data Parallelism (DDP) is implemented using the torch.nn
  - Copy the structure to you HPC cluster
  - Change the .SBATCH file to reflect you Singluarity Instance
  - Submit the jobs
- - 
+ 
 ## Insturctions to Run Inferece
 - In the translate.py file, load the model that you want
 - Run the file
