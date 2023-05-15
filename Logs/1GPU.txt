@@ -1,0 +1,54 @@
+[GPU0] Epoch 0 | Batchsize: 28 | Steps: 907
+/ext3/miniconda3/lib/python3.10/site-packages/torch/nn/functional.py:4999: UserWarning: Support for mismatched src_key_padding_mask and src_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+/ext3/miniconda3/lib/python3.10/site-packages/torch/nn/functional.py:4999: UserWarning: Support for mismatched key_padding_mask and attn_mask is deprecated. Use same type for both instead.
+  warnings.warn(
+
+
+1 GPU;
+
+Epoch 0 | loss 4.303993983726123 | epoch time28.716s| val_loss 3.254883609712124| val_time 0.516636585816741
+Epoch 0 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 1 | Batchsize: 28 | Steps: 907
+Epoch 1 | loss 3.0993293238579898 | epoch time26.416s| val_loss 2.75250481069088| val_time 0.504005866125226
+Epoch 1 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 2 | Batchsize: 26 | Steps: 907
+Epoch 2 | loss 2.7335844192378707 | epoch time26.508s| val_loss 2.514391392469406| val_time 0.509299261495471
+Epoch 2 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 3 | Batchsize: 23 | Steps: 907
+Epoch 3 | loss 2.5362255949169694 | epoch time26.512s| val_loss 2.4087179228663445| val_time 0.5135020269080997
+Epoch 3 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 4 | Batchsize: 27 | Steps: 907
+Epoch 4 | loss 2.4075029536408126 | epoch time26.540s| val_loss 2.3052721209824085| val_time 0.5144826397299767
+Epoch 4 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 5 | Batchsize: 22 | Steps: 907
+Epoch 5 | loss 2.3149881415488043 | epoch time26.519s| val_loss 2.2335720099508762| val_time 0.5032053142786026
+Epoch 5 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 6 | Batchsize: 24 | Steps: 907
+Epoch 6 | loss 2.2454400297825234 | epoch time26.450s| val_loss 2.187557514756918| val_time 0.5064873807132244
+Epoch 6 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 7 | Batchsize: 20 | Steps: 907
+Epoch 7 | loss 2.1817001033381302 | epoch time26.492s| val_loss 2.149834930896759| val_time 0.501219674013555
+Epoch 7 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 8 | Batchsize: 25 | Steps: 907
+Epoch 8 | loss 2.1309236014691053 | epoch time26.548s| val_loss 2.10147275775671| val_time 0.5148951774463058
+Epoch 8 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 9 | Batchsize: 29 | Steps: 907
+Epoch 9 | loss 2.0851858797777845 | epoch time26.458s| val_loss 2.085610680282116| val_time 0.5021831803023815
+Epoch 9 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 10 | Batchsize: 22 | Steps: 907
+Epoch 10 | loss 2.0428922908440184 | epoch time26.566s| val_loss 2.0487972646951675| val_time 0.5064062913879752
+Epoch 10 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 11 | Batchsize: 26 | Steps: 907
+Epoch 11 | loss 2.004334046138818 | epoch time26.465s| val_loss 2.039050344377756| val_time 0.49708263389766216
+Epoch 11 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 12 | Batchsize: 25 | Steps: 907
+Epoch 12 | loss 1.9687057042200746 | epoch time26.523s| val_loss 2.0009058378636837| val_time 0.5208366475999355
+Epoch 12 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 13 | Batchsize: 22 | Steps: 907
+Epoch 13 | loss 1.9346433837200867 | epoch time26.548s| val_loss 1.984591007232666| val_time 0.500277859158814
+Epoch 13 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 14 | Batchsize: 32 | Steps: 907
+Epoch 14 | loss 1.9053772204240338 | epoch time26.788s| val_loss 1.9685282073915005| val_time 0.5212096916511655
+Epoch 14 | Training checkpoint saved at checkpoint.pt
+Number of Epochs = 14, Total time = 400.049s
