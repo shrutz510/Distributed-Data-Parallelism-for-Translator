@@ -31,7 +31,7 @@ In PyTorch, Distributed Data Parallelism (DDP) is implemented using the torch.nn
 │   └── CPU.SBATCH    
 │
 └── Evaluation
-│   ├── GoogleTranslate.mov    #human evaluation for certain inputs
+│   ├── GoogleTranslate.mov    #Google Translate vs translator evaluation for certain inputs
 
 ```
 
