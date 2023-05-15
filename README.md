@@ -16,7 +16,7 @@ In PyTorch, Distributed Data Parallelism (DDP) is implemented using the torch.nn
 ├── ...
 ├── src # Source files for the program
 │ ├── help.py # contains functions returning the model and dataloader to each spawn
-│ ├── training.py # contains function that is spawned in each process, calls the trainer class
+│ ├── multi_run.py # contains function that is spawned in each process, calls the trainer class
 │ └── translate.py # load model and interact with the translator
 │ └── cpu_train.py # Non DDP training on CPU
 │ └── outputs # contains checkpoints saved during training
@@ -25,10 +25,14 @@ In PyTorch, Distributed Data Parallelism (DDP) is implemented using the torch.nn
 │   └── ...
 │
 └── Batch # SBATCH files required to run training across specified resources
-├── 1GPU.SBATCH
-├── 2GPU.SBATCH
-├── 4GPU.SBATCH
-└── CPU.SBATCH
+│   ├── 1GPU.SBATCH
+│   ├── 2GPU.SBATCH
+│   └── 4GPU.SBATCH
+│   └── CPU.SBATCH    
+│
+└── Evaluation
+│   ├── GoogleTranslate.mov    #human evaluation for certain inputs
+
 ```
 
 ## Insturctions to Run Training
