@@ -1,0 +1,30 @@
+all ok
+starting training
+Epoch: 1, Train loss: 5.344, Val loss: 4.103, Epoch time = 255.295s
+Epoch: 2, Train loss: 3.759, Val loss: 3.310, Epoch time = 252.251s
+Epoch: 3, Train loss: 3.159, Val loss: 2.892, Epoch time = 251.987s
+Epoch: 4, Train loss: 2.768, Val loss: 2.645, Epoch time = 250.972s
+Epoch: 5, Train loss: 2.479, Val loss: 2.443, Epoch time = 251.653s
+Epoch: 6, Train loss: 2.252, Val loss: 2.314, Epoch time = 252.005s
+Epoch: 7, Train loss: 2.062, Val loss: 2.197, Epoch time = 250.594s
+Epoch: 8, Train loss: 1.900, Val loss: 2.109, Epoch time = 250.839s
+Epoch: 9, Train loss: 1.757, Val loss: 2.064, Epoch time = 250.156s
+Epoch: 10, Train loss: 1.636, Val loss: 2.019, Epoch time = 250.030s
+Epoch: 11, Train loss: 1.524, Val loss: 1.971, Epoch time = 252.044s
+Epoch: 12, Train loss: 1.422, Val loss: 1.955, Epoch time = 266.812s
+Epoch: 13, Train loss: 1.333, Val loss: 1.937, Epoch time = 268.761s
+Epoch: 14, Train loss: 1.254, Val loss: 1.918, Epoch time = 268.765s
+Epoch: 15, Train loss: 1.178, Val loss: 1.910, Epoch time = 266.971s
+Epoch: 16, Train loss: 1.105, Val loss: 1.900, Epoch time = 266.882s
+Epoch: 17, Train loss: 1.037, Val loss: 1.909, Epoch time = 268.532s
+Epoch: 18, Train loss: 0.973, Val loss: 1.909, Epoch time = 270.288s
+Epoch: 19, Train loss: 0.917, Val loss: 1.924, Epoch time = 268.832s
+Epoch: 20, Train loss: 0.865, Val loss: 1.935, Epoch time = 267.712s
+Epoch: 21, Train loss: 0.814, Val loss: 1.956, Epoch time = 268.740s
+Epoch: 22, Train loss: 0.767, Val loss: 1.978, Epoch time = 269.353s
+Epoch: 23, Train loss: 0.722, Val loss: 1.970, Epoch time = 268.954s
+Epoch: 24, Train loss: 0.680, Val loss: 1.955, Epoch time = 269.082s
+Epoch: 25, Train loss: 0.639, Val loss: 1.972, Epoch time = 269.351s
+Training ends
+Number of Epochs = 25, Train loss: 0.639, Val loss: 1.972, Total time = 6600.893s
+A group of people standing in front of an igloo . 
